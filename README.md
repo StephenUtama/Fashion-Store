@@ -1,2 +1,2 @@
-# Monster-Cards
-Learning React and making API calls to fetch monster data to create monster cards.
+# Fashion-Store
+An ecommerce website built using React/Redux with the support of Firebase to store data.
